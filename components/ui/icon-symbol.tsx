@@ -18,6 +18,21 @@ const MAPPING = {
   "paperplane.fill": "send",
   "chevron.left.forwardslash.chevron.right": "code",
   "chevron.right": "chevron-right",
+  sparkles: "auto-awesome",
+  "figure.walk": "directions-walk",
+  checklist: "checklist",
+  "person.crop.circle.fill": "account-circle",
+  "plus.circle.fill": "add-circle",
+  "checkmark.circle.fill": "check-circle",
+  "heart.fill": "favorite",
+  "bolt.fill": "bolt",
+  "drop.fill": "water-drop",
+  "moon.stars.fill": "bedtime",
+  "brain.head.profile": "psychology",
+  "figure.mind.and.body": "self-improvement",
+  "calendar.circle.fill": "calendar-month",
+  "target": "track-changes",
+  "trash.fill": "delete",
 } as IconMapping;
 
 /**
